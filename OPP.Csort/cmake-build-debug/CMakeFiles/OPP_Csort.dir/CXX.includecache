@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qiansu/CLionProjects/OPP.Csort/Csort.cpp
+iostream
+-
+Csort.h
+/Users/qiansu/CLionProjects/OPP.Csort/Csort.h
+
+/Users/qiansu/CLionProjects/OPP.Csort/Csort.h
+
